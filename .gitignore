@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*config.local.php
+yunet-ai-config.php
+shikhi-ai-request-budget.json
+*.log
+.DS_Store
+Thumbs.db
